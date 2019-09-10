@@ -1,11 +1,11 @@
 # Site settings
 author: Maia Ngo
-title: 
+title: Maia's Blog
 header-img: img/home-bg.png
 email: maia.groundwatercapital@gmail.com
 copyright_name: Maia Ngo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Maia's Data Science journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MaiaNgo
